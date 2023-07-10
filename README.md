@@ -3,3 +3,6 @@
 Will be making a odin basic recipe website!
 After completing this project I will be able to show
 my basic html knowledge.
+
+#update 2
+Added CSS to HTML
